@@ -16,6 +16,6 @@ En la siguiente pantalla selecciona el/los ficheros, escribe un mensaje y pulsa 
 
 ....
 
-### Actializar inventario
-En la carpeta del objeto encontraras un fichero llamado `00-nombreDelObjeto.md`añade en el la información al 
+### Actualizar inventario
+En la carpeta del objeto encontraras un fichero llamado `00-nombreDelObjeto.md` añade en el la información al 
 respecto de los documentos que has adjuntado.
